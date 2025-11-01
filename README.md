@@ -8,10 +8,10 @@ The ALX Listing App project aims to scaffold and lay the foundational structure 
 
 ## Design Goals
 
-Create intuitive booking flow
-Maintain visual consistency
-Ensure fast loading times
-Prioritize mobile responsiveness
+- Create intuitive booking flow
+- Maintain visual consistency
+- Ensure fast loading times
+- Prioritize mobile responsiveness
 
 ## Key Features
 
